@@ -9,7 +9,7 @@
 int main(void)
 {
 	char str[] = "Expect the best. Prepare for the worst. Capitalize on what
-comes.\hello world! hello-world 0123456hello world\thello world.hello world\n"
+comes. hello world! hello-world 0123456hello world hello world. hello world \0"
 ;
 	char *ptr;
 
